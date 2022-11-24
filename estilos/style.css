@@ -88,7 +88,7 @@ div.campo > input{
     height: 100%;
     border: none;
     border-radius: 10px;
-    transform: translateY(-15.7px);
+    transform: translateY(-15px);
 }
 
 form > input[type=submit]{
